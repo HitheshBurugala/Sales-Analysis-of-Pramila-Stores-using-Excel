@@ -1,4 +1,4 @@
-# Pramila store-Data-Analysis for Sales growth for the year 2022
+# Pramila store-Data-Analysis for Sales growth for the year 2022 using Excel.
 
 This project analyzes Pramila Store's 2022 sales data to identify growth patterns and provide insights for future sales strategies. It utilizes data analysis techniques to visualize trends and inform decisions aimed at increasing sales.
 ## Business Problem Statements
