@@ -17,7 +17,7 @@ Observations on the following are made:
 
 ## Dataset
 
-- **Data belongs to Pramila stores:** A leading online retailer in the Andhra Pradesh
+- **Data belongs to Pramila stores:** A leading offline retailer in the Andhra Pradesh
 - **Time Period :**  January 2022  -  December 2022
 - **Total channels:**  07
 - **Total Orders :**  8
