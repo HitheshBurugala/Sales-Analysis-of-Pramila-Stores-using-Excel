@@ -4,7 +4,7 @@ This project analyzes Pramila Store's 2022 sales data to identify growth pattern
 ## Business Problem Statements
 Observations on the following are made:
 
-1.During the first quarter store ended up with good sales
+1.Which month of the first quarter did the company make a significant profit?
 
 2.Which gender makes more purchases ?
 
