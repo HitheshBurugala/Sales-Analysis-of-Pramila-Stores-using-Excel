@@ -20,7 +20,6 @@ Observations on the following are made:
 - **Data belongs to Pramila stores:** A leading offline retailer in the Andhra Pradesh, India.
 - **Time Period :**  January 2022  -  December 2022
 - **Total channels:**  07
-- **Total Orders :**  8
 - **Total Orders :**  31,047
 
 - **KPI’s :** Total Sales.
